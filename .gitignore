@@ -1,1 +1,5 @@
 target/
+<<<<<<< HEAD
+=======
+Cargo.lock
+>>>>>>> b4ac182 (initial commit of rust project)
